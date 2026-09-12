@@ -5,7 +5,7 @@
 ---
 
 ## 🎨 Visualizing the Project (Human + AI Concept)
-![Project EcoRoad Blueprint](07_52_35 AM.png)
+![Project EcoRoad Blueprint](1000035549.png)
 
 ---
 
