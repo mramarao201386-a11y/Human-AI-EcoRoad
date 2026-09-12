@@ -5,7 +5,8 @@
 ---
 
 ## 🎨 Visualizing the Project (Human + AI Concept)
-![Project EcoRoad Blueprint](1000035549.png)
+![Project EcoRoad Blueprint](<img width="1536" height="1024" alt="ChatGPT Image Sep 12, 2026, 07_52_35 AM (1)" src="https://github.com/user-attachments/assets/d461f620-01f8-4183-9694-5a61b7e7f7be" />
+)
 
 ---
 
