@@ -5,7 +5,7 @@
 ---
 
 ## 🎨 Project Visual Architecture (Human + AI Synergy)
-![Project EcoRoad Blueprint](1000035549.png)
+![Project EcoRoad Blueprint](a50b9b4f-560d-4fa1-9fd5-a898046c4c02.png)
 
 ---
 
